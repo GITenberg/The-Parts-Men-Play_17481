@@ -1,0 +1,28 @@
+_repo: The-Parts-Men-Play_17481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baxter, Beverley
+    alias: Baxter, Arthur Beverley
+    birthdate: 1891
+    deathdate: 1964
+    gutenberg_agent_id: '7416'
+    url: http://www.gutenberg.org/2009/agents/7416
+description: ''
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+title: The Parts Men Play
+url: http://www.gutenberg.org/ebooks/17481
